@@ -1,6 +1,6 @@
 # README: Tamil Text-to-Image Generation with Stable Diffusion
 
-This repo has supporting materials for my Masters dissertation. Soon to be published in arXiv.
+This repo has supporting materials for my Masters dissertation. 
 
 ## Overview
 This repository contains Jupyter notebooks, scripts, and models for research focused on improving text-to-image generation for the Tamil language using Stable Diffusion models. The contents include fine-tuning scripts, evaluation tools, and other supporting files necessary to replicate the experiments and generate the results discussed in the study.
