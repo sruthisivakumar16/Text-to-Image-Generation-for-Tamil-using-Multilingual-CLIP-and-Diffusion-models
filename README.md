@@ -1,4 +1,4 @@
-# README: Tamil Text-to-Image Generation with Stable Diffusion
+# Tamil Text-to-Image Generation with Stable Diffusion
 
 This repo has supporting materials for my Masters dissertation. 
 
