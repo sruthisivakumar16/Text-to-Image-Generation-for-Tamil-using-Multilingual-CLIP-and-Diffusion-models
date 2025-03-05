@@ -32,8 +32,6 @@ To fine-tune the models and perform inference using the Stable Diffusion pipelin
 The dataset used for training and evaluation can be accessed from the following link:
 - [MMDravi Dataset on Zenodo](https://zenodo.org/records/4765597#.YKEB-yYo_0M)
 
-If you use this dataset, please cite the following paper:
-
 ```
 @inproceedings{chakravarthi-etal-2019-multilingual,
     title = "Multilingual Multimodal Machine Translation for {D}ravidian Languages utilizing Phonetic Transcription",
