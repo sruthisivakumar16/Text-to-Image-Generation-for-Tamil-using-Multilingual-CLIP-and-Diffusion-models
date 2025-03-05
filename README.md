@@ -32,6 +32,29 @@ To fine-tune the models and perform inference using the Stable Diffusion pipelin
 The dataset used for training and evaluation can be accessed from the following link:
 - [MMDravi Dataset on Zenodo](https://zenodo.org/records/4765597#.YKEB-yYo_0M)
 
+If you use this dataset, please cite the following paper:
+
+```
+@inproceedings{chakravarthi-etal-2019-multilingual,
+    title = "Multilingual Multimodal Machine Translation for {D}ravidian Languages utilizing Phonetic Transcription",
+    author = "Chakravarthi, Bharathi Raja  and
+      Priyadharshini, Ruba  and
+      Stearns, Bernardo  and
+      Jayapal, Arun  and
+      S, Sridevy  and
+      Arcan, Mihael  and
+      Zarrouk, Manel  and
+      McCrae, John P",
+    booktitle = "Proceedings of the 2nd Workshop on Technologies for MT of Low Resource Languages",
+    month = aug,
+    year = "2019",
+    address = "Dublin, Ireland",
+    publisher = "European Association for Machine Translation",
+    url = "https://www.aclweb.org/anthology/W19-6809",
+    pages = "56--63",
+}
+```
+
 ### 4. Models
 The fine-tuned model checkpoints and accompanying JSON files were saved to my google drive folder and can be downloaded from the following link
 - [Download Fine-Tuned Models](https://drive.google.com/drive/folders/1pCiFFQqwdmvbJTSxisVXTyLBLsnZalF3?usp=sharing)
